@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690888563 source:d:\pdp\2-modul\11-dars\11-dars_1-vazifa\main.cpp
+	<iostream>
+	<time.h>
+	<math.h>
+

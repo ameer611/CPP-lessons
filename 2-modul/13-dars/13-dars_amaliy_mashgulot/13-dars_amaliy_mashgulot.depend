@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691476958 source:d:\pdp\2-modul\13-dars\13-dars_amaliy_mashgulot\main.cpp
+	<iostream>
+	<string.h>
+	<ctype.h>
+
